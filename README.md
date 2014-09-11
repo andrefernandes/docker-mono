@@ -5,6 +5,8 @@ CentOS 7 + Mono
 
 Base CentOS image with Mono runtime.
 
+Built with tips from bryanayers/docker-centos7-mono3.8.0 (tnx!).
+
 ### Useful scripts
 
 * **build.sh** : builds the image locally (docker build)

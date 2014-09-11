@@ -1,6 +1,6 @@
-# CentOS 7 com Mono
+# CentOS 7 with Mono runtime
 #
-# Inspirado no trabalho de bryanayers/docker-centos7-mono3.8.0
+# Based on tips from bryanayers/docker-centos7-mono3.8.0
 #
 
 FROM andrefernandes/docker-devel-base
